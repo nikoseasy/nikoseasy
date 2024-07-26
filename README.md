@@ -16,3 +16,4 @@ telegram - nikoseasy
 ostatni update: 26/07/24
 
 jak piszę coś na dc czego tutaj nie ma to napisz mi, poprawie to na asap
+
