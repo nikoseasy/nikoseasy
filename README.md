@@ -1,18 +1,18 @@
 🗿siemanko tu nikoseasy🗿
 używam głównie kąkóterów i telefonuw 
 czasami konsóle
-spec kompa: Amd Ryzen 5 3600/Asus A320M-A/32 gb ram Viper 3200 MhZ/RTX 2070 Super od Gigabyte
+spec kompa: Amd Ryzen 5 3600/Asus A320M-A/16 gb ram Viper 3200 MhZ/RTX 2070 Super od Gigabyte
 spec drugiego kompa (serwera): Intel Core I5 6500T, 12 gigabajtów ramu
 laptop: ThinkPad T440p - I7 4600m (przenośny piekarnik)/16GB RAM
-Mainuje Xiaomi Mi 11 
-Full kolekcja telefonów: Xiaomi Mi 11, Xiaomi Redmi 4A, Xiaomi Redmi 6A, Xiaomi Redmi Go, LG K10,  Samsung S3 Mini (brak baterii, poprzednia spuchła), Samsung Galaxy Young (spuchnięta bateria, która puchnie jeszcze bardziej po podpięciu do prądu), Samsung Galaxy Young, Samsung Galaxy Trend, Huawei Y7 2019 (zepsuta taśma matrycy), Sony Ericsson K750i (zgubiona bateria, działa), mnóstwo mniejszych pierdółek
-kolekcja konsol: Nintendo Wii (zmodowane), Nintendo Switch V2 (modchip soon), PlayStation 3 Slim (z cfw, evilnat) PlayStation 1 (z modchipem), Nintendo DSI, PlayStation Portable (tymczasowo bez moda) (mam nadzieję na kupno xboxa 360 slim, jak masz jedną pisz na discorda będę chętny do kupna)]
+(aktualnie) mainuje Sony Ericsson j10i2 aka Elm (tak for fun)
+Full kolekcja telefonów: Xiaomi Mi 11, Xiaomi Redmi 4A, Xiaomi Redmi 6A, Xiaomi Redmi Go, LG K10,  Samsung S3 Mini (brak baterii, poprzednia spuchła), Samsung Galaxy Young (spuchnięta bateria, która puchnie jeszcze bardziej po podpięciu do prądu), Samsung Galaxy Young, Samsung Galaxy Trend, Huawei Y7 2019 (zepsuta taśma matrycy), Sony Ericsson K750i (pierwszy telefon w którym zdjąłem simlocka), Sony Ericsson j10i2 aka Elm, mnóstwo mniejszych pierdółek
+kolekcja konsol: Czarne Nintendo Wii (zmodowane, z kompatybilnością wsteczną z GameCube'em), Nintendo Switch Lite (z wlutowanym modchipem PicoFly), PlayStation 3 Slim 2104 (z cfw, evilnat) PlayStation 1 (z modchipem), Nintendo DSI, (mam nadzieję na kupno xboxa 360 slim, jak masz jednego pisz na discorda będę chętny do kupna)]
 
 kontakt:
 discord - nikoseasy
 telegram - nikoseasy
 
-ostatni update: 26/07/24
+ostatni update: 05/09/24
 
 jak piszę coś na dc czego tutaj nie ma to napisz mi, poprawie to na asap
 
