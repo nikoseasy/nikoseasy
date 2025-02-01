@@ -31,8 +31,8 @@ laptop: ThinkPad T440p - I7 4600m (przenośny piekarnik)/12GB RAM DDR3l 1600 MHz
 drugi laptop: ThinkPad 11E Gen 3 - Celeron N3150/4GB RAM DDR3l 1600 mhz (niewymienialny a szkoda) (update: bios sie wywalił xd), systemu brak
 trzeci laptop (aktualny daily driver): ThinkPad T530 - I5 3360M/12 GB RAM DDR3L 1600 MHz, System Relive7/Dualboot Linux Mint
 Odtwarzacz muzyki: iPod Mini 2nd gen (z flashmodem 128 GB który średnio działa xd)
-(aktualnie) mainuje Sony Ericsson j10i2 aka Elm (tak for fun)
-Full kolekcja telefonów: Xiaomi Mi 11 Lite, Xiaomi Redmi 4A, Xiaomi Redmi 6A, Xiaomi Redmi Go, LG K10,  Samsung S3 Mini (brak baterii, poprzednia spuchła), Samsung Galaxy Young (spuchnięta bateria, która puchnie jeszcze bardziej po podpięciu do prądu), Samsung Galaxy Young, Samsung Galaxy Trend, Huawei Y7 2019 (zepsuta taśma matrycy), Sony Ericsson K750i (pierwszy telefon w którym zdjąłem simlocka), Sony Ericsson j10i2 aka Elm, mnóstwo mniejszych pierdółek
+ mainuje Xiaomi 12
+Full kolekcja telefonów: Xiaomi 12, Xiaomi Mi 11 Lite, Xiaomi Redmi 4A, Xiaomi Redmi 6A, Xiaomi Redmi Go, LG K10,  Samsung S3 Mini (brak baterii, poprzednia spuchła), Samsung Galaxy Young (spuchnięta bateria, która puchnie jeszcze bardziej po podpięciu do prądu),Samsung Galaxy Young, Samsung Galaxy Trend, Huawei Y7 2019 (zepsuta taśma matrycy), Sony Ericsson K750i (pierwszy telefon w którym zdjąłem simlocka), Sony Ericsson j10i2 aka Elm, mnóstwo mniejszych pierdółek
 kolekcja konsol: Czarne Nintendo Wii (zmodowane, z kompatybilnością wsteczną z GameCube'em), Nintendo Switch Lite (z wlutowanym modchipem PicoFly), PlayStation 3 Slim 2104 (z cfw, evilnat) PlayStation 1 (z modchipem), Nintendo DSI z wgranym TwilightMenu++, Xbox 360 z zakładu karnego z brzegu z RGH 1.2, rewizja płyty głównej to Falcon (brzmi jak pierdolony helikopter)
 
 kontakt:
