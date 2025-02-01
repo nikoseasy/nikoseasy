@@ -38,11 +38,12 @@ kolekcja konsol: Czarne Nintendo Wii (zmodowane, z kompatybilnością wsteczną 
 kontakt:
 discord - nikoseasy
 telegram - nikoseasy
+session - 05a5e283989b9375c93163b97e886eb82b819dc871aef04cce65e729d0b4f0a957
 
-jak macie za dużo pieniędzy to mi przelejcie na krypto (dzięki z góry):
+jak macie za dużo pieniędzy to mi przelejcie na krypto (uniswap, dzięki z góry):
 0xBCF482f75CF82390Dffa1e9e999C9703e4cDFD51
 
-ostatni update: 28.01.25
+ostatni update: 01.02.25
 
 jak piszę coś na dc czego tutaj nie ma to napisz mi, poprawie to na asap
 
